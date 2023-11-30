@@ -32,3 +32,4 @@ Plan:
 3. dodanie obieków i elementów na mape
 4. dodanie elementów graficznych 
 5. udoskonalenie gry
+6. zapisać projekt!!
