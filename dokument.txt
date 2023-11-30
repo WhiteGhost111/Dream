@@ -1,0 +1,34 @@
+Dokumentacja Gry "Przebudzenie W Ciemności"
+
+Wersja 1.0
+
+I. Wprowadzenie
+
+Gra "Przebudzenie W Ciemności" to pierwszoosobowa przygodowa gra akcji stworzona w środowisku Unity. Gracz wciela się w rolę odważnego odkrywcy, który musi odnaleźć starożytną kaplicę ukrytą w strasznym lesie przed wschodem słońca. Jednakże, lesisty mrok nie jest jedynym wyzwaniem – na ścieżce gracza stoją potwory oraz niebezpieczne pułapki ukryte w mrocznym gąszczu. 
+Sterowanie:
+
+Gracz porusza się przy użyciu klawiszy WSAD.
+Kamera jest kontrolowana myszką.
+Klawisz E służy do interakcji z otoczeniem.
+Zadanie główne:
+
+Odnajdź kaplicę ukrytą w lesie przed wschodem słońca.
+Wrota nocy:
+
+Gracz musi unikać potworów, które pojawiają się w nocy.
+Każdego dnia gracz ma ograniczony czas na odnalezienie kaplicy przed nadejściem nocy.
+Pułapki i niebezpieczeństwa:
+
+Gra zawiera różnorodne pułapki, takie jak zastawione sidła, zatopione bagna i ukryte przepaście.
+Latarka:
+
+Gracz zaczyna grę z latarką, która jest niezbędna do oświetlania mrocznego lasu.
+Latarka ma ograniczony zasięg i limit baterii.
+Baterie można znaleźć w trakcie eksploracji.
+
+Plan:
+1. Stworzenie mapy 
+2. dodanie postaci 
+3. dodanie obieków i elementów na mape
+4. dodanie elementów graficznych 
+5. udoskonalenie gry
